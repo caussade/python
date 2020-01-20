@@ -1,0 +1,19 @@
+Program:       Stellar Diameter, formerly DIAMETER.
+Release:       v2.2, January 20, 2020.
+
+Description:   Program to estimate a star's diameter using the Stefan-Boltzmann law.
+Environment:   Python script, developed under Python 3.6.9.
+Author:        Armando Caussade.
+Contact:       http://armandocaussade.org/
+Copyright:     (c) 2020, 1999, 1990, 1989.  Some rights reserved.
+License:       GNU General Public License v2.0.
+
+-----
+
+Overview:
+
+This program will allow you to estimate a star's diameter using the Stefan-Boltzmann law, i.e., a simple relationship between a blackbody's effective temperature and its flux.  Most stars behave nearly as blackbodies, which allows us to apply this relationship to stars in order to obtain an estimate of its radius (or diameter).  But it should be borne in mind that younger stars tend to rotate rapidly and can deviate from a spherical shape, while older massive stars --such as Cepheids-- change their size due to periodical pulsations.
+
+The file is a Python 3 script that will run under any operating system capable of running a Python 3 interpreter; this includes Microsoft Windows, Apple OS X and GNU / Linux.  The software is a single, portable file that does not require any external dependency.
+
+This program has been found suitable for research work relating to close binary stars, and as far as my knowledge goes has been quoted at least five times on papers in astronomy journals.  If you like the software and find it useful, or if you believe that it can be improved, I would be glad to know.
