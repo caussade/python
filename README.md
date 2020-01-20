@@ -1,7 +1,7 @@
 # python
 
 By Armando Caussade, http://armandocaussade.org/<BR>
-Readme file.  Version 1.0.  January 20, 2020.
+Readme file, version 1.0.  January 20, 2020.
 
 -----
 
